@@ -32,7 +32,7 @@ Serão fornecidos certificados digitais para os participantes do evento, que con
 > Alegrete, RS
 
 <div class="map-responsive">
-  <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d23293.597638623087!2d-55.79840746510817!3d-29.78880087527331!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xba478dd53e4e9407!2sUNIPAMPA!5e0!3m2!1sen!2sbr!4v1562725571947!5m2!1sen!2sbr" width="600" height="480" frameborder="0" style="border:0" allowfullscreen></iframe>
+   <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d27701.543858809786!2d-55.80258595263671!3d-29.786517917996527!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xba478dd53e4e9407!2sUNIPAMPA!5e0!3m2!1sen!2sbr!4v1562730702704!5m2!1sen!2sbr" width="600" height="480" frameborder="0" style="border:0" allowfullscreen></iframe>
 </div>
 
 ## Apoio
