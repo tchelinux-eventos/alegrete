@@ -4,12 +4,6 @@
 
 O grupo de usuários de Software Livre Tchelinux, em parceria com a [**Universidade Federal do Pampa Campus Alegrete**](http://novoportal.unipampa.edu.br/alegrete/), tem o prazer de convidar a comunidade para participar do evento que ocorrerá no dia **14 de Setembro de 2019 a partir das 8:30h** na UNIPAMPA em Alegrete.
 
-## Chamada de Trabalhos
-
-A chamada de trabalhos está aberta e o **prazo para submissão** de propostas de palestra é o dia **27 de Julho de 2019**. Os trabalhos escolhidos serão anúnciados no dia 29 de Julho de 2019.
-
-[**Clique aqui e submeta sua palestra agora mesmo!**](https://alegrete.tchelinux.org/cfp/)
-
 ## Inscrições
 
 As inscrições estarão abertas a partir do dia 29 de Julho de 2019, quando a **programação do evento** for anunciada.
