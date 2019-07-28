@@ -6,11 +6,11 @@ O grupo de usuários de Software Livre Tchelinux, em parceria com a [**Universid
 
 ## Inscrições
 
-As inscrições estarão abertas a partir do dia 29 de Julho de 2019, quando a **programação do evento** for anunciada.
-
 O evento tem **entrada franca**, porém os participantes são encorajados a doar 2kg de alimentos não perecíveis (exceto sal), que são doados a instituições de caridade da região.
 
-Os alimentos são recebidos no momento do credenciamento.
+**Importante:** Os alimentos são recebidos no momento do credenciamento.
+
+<center><a href="https://alegrete.tchelinux.org/inscricoes/" style="color:#ff4040"><b>Clique aqui e faça sua inscrição!</b></a></center>
 
 ## Certificados
 
