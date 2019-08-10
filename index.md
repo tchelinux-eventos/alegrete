@@ -22,18 +22,18 @@ Serão fornecidos certificados digitais para os participantes do evento, que con
 
 | <center> Horário </center> | <center> Sala 702 </center> | <center> Sala 703 </center> | <center> Sala 704 </center> |
 |:--------------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| **08:15** | **Credenciamento** |
-| **08:45** | **Abertura** <br> <span class="label label-info">Todo o público</span> <br> Equipe Tchelinux |
-| **09:00** | [**Produzindo vídeos com Software Livre (e sem pirataria!)**](#Produzindo_vídeos_com_Software_Livre_e_sem_pirataria!) ) <br> <span class="label label-success">Principiante</span> <br> Yucatan "Kenjiro" Costa  |
-| **09:45** | [**Gerenciamento de backups com Bacula: Case da UNIPAMPA**](#Gerenciamento_de_backups_com_Bacula:_Case_da_UNIPAMPA) <br> <span class="label label-success">Principiante</span> <br> Maurício Martinuzzi Fiorenza | 
-| **10:30** | [**Case de Gestão Administrativa e Modularizada com uso do GLPI**](#Case_de_Gestão_Administrativa_e_Modularizada_com_uso_do_GLPI) <br> <span class="label label-success">Principiante</span> <br> Ricardo Lazzari da Rosa | 
-| **11:15** | [**Git em projetos acadêmicos**](#Git_em_projetos_acadêmicos) <br> <span class="label label-success">Principiante</span> <br> Sandro Custódio | 
-| **12:00** <td colspan=5><center>**Intervalo para Almoço**</center> |
-| **13:30** | [**Desenvolvimento Mobile: Introdução ao Flutter**](#Desenvolvimento_Mobile:_Introdução_ao_Flutter) <br> <span class="label label-success">Principiante</span> <br>  Márcio Fiorenza e Mauro Oviedo II | 
-| **14:15** | [**Teste de Software em Aplicações Mobile**](#Teste_de_Software_em_Aplicações_Mobile) <br> <span class="label label-warning">Intermediário</span> <br> Luana de Freitas | 
-| **15:30** | [**Bem vindo ao mundo dos Contêineres**](#Bem_vindo_ao_mundo_dos_Contêineres) <br> <span class="label label-success">Principiante</span> <br> Tonin Bolzan | 
-| **16:15** | [**(In)Segurança na Internet**](#Insegurança_na_Internet) <br> <span class="label label-warning">Intermediário</span> <br> Diego Luiz Silva da Costa | 
-| **17:15** | **Encerramento** <br> <span class="label label-info">Todo o público</span> <br> Equipe Tchelinux |
+| **08:30** <td colspan=4><center>**Credenciamento**</center> |
+| **09:00** <td colspan=4><center>**Abertura**<br> <span class="label label-info">Todo o público</span> <br>Equipe Tchelinux<br> </center> |
+| **09:30** | [**Produzindo vídeos com Software Livre (e sem pirataria!)**](#Produzindo_vídeos_com_Software_Livre_e_sem_pirataria!) ) <br> <span class="label label-success">Principiante</span> <br> Yucatan "Kenjiro" Costa  | | |
+| **10:20** | [**Gerenciamento de backups com Bacula: Case da UNIPAMPA**](#Gerenciamento_de_backups_com_Bacula:_Case_da_UNIPAMPA) <br> <span class="label label-success">Principiante</span> <br> Maurício Martinuzzi Fiorenza | | |
+| **11:10** | [**Case de Gestão Administrativa e Modularizada com uso do GLPI**](#Case_de_Gestão_Administrativa_e_Modularizada_com_uso_do_GLPI) <br> <span class="label label-success">Principiante</span> <br> Ricardo Lazzari da Rosa | | |
+| **11:15** | [**Git em projetos acadêmicos**](#Git_em_projetos_acadêmicos) <br> <span class="label label-success">Principiante</span> <br> Sandro Custódio | | |
+| **11:30** <td colspan=4><center>**Intervalo para Almoço**</center> |
+| **13:30** | [**Desenvolvimento Mobile: Introdução ao Flutter**](#Desenvolvimento_Mobile:_Introdução_ao_Flutter) <br> <span class="label label-success">Principiante</span> <br>  Márcio Fiorenza e Mauro Oviedo II | | |
+| **14:15** | [**Teste de Software em Aplicações Mobile**](#Teste_de_Software_em_Aplicações_Mobile) <br> <span class="label label-warning">Intermediário</span> <br> Luana de Freitas | | |
+| **15:30** | [**Bem vindo ao mundo dos Contêineres**](#Bem_vindo_ao_mundo_dos_Contêineres) <br> <span class="label label-success">Principiante</span> <br> Tonin Bolzan | | |
+| **16:15** | [**(In)Segurança na Internet**](#Insegurança_na_Internet) <br> <span class="label label-warning">Intermediário</span> <br> Diego Luiz Silva da Costa | | |
+| **17:20** <td colspan=4><center>**Encerramento**<br> <span class="label label-info">Todo o público</span> <br>   Equipe Tchelinux  <br> </center> |
 
 ## Palestras 
 
