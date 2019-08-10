@@ -20,8 +20,8 @@ Serão fornecidos certificados digitais para os participantes do evento, que con
 
 ## Programação
 
-| <center> Horário </center>  |  <center> Auditório </center>                             | 
-|:---------------------------:|:---------------------------------------------------------:|
+| <center> Horário </center> | <center> Sala 702 </center> | <center> Sala 703 </center> | <center> Sala 704 </center> |
+|:--------------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
 | **08:15** | **Credenciamento** |
 | **08:45** | **Abertura** <br> <span class="label label-info">Todo o público</span> <br> Equipe Tchelinux |
 | **09:00** | [**Produzindo vídeos com Software Livre (e sem pirataria!)**](#Produzindo_vídeos_com_Software_Livre_e_sem_pirataria!) ) <br> <span class="label label-success">Principiante</span> <br> Yucatan "Kenjiro" Costa  |
