@@ -20,20 +20,20 @@ Serão fornecidos certificados digitais para os participantes do evento, que con
 
 ## Programação
 
-| <center> Horário </center> | <center> Sala 401 </center> | <center> Laboratório de Informática </center> | <center> Sala 403 </center> 
-|:--------------------------:|:-----------------------:|:-----------------------:|:-----------------------:|
-| **08:30** <td colspan=4><center>**Credenciamento**</center> |
-| **09:00** <td colspan=4><center>**Abertura**<br> <span class="label label-info">Todo o público</span> <br>Equipe Tchelinux<br> </center> |
-| **09:30** <td colspan=4><center>[**Porque e Como Participar de Projetos Open Source**](#Porque_e_Como_Participar_de_Projetos_Open_Source)<br> <span class="label label-success">Principiante</span> <br>Julio Biason<br> </center> |
-| **10:20** <td colspan=4><center>[**(In)Segurança na Internet**](#Insegurança_na_Internet) <br> <span class="label label-warning">Intermediário</span> <br> Diego Luiz Silva da Costa |
-| **11:10** <td colspan=4><center>[**Bem vindo ao mundo dos Contêineres**](#Bem_vindo_ao_mundo_dos_Contêineres) <br> <span class="label label-success">Principiante</span> <br> Tonin Bolzan |
-| **12:00** <td colspan=4><center>**Intervalo para Almoço**</center> |
-| **13:30** | [**Porque Você Deve Aprender Rust **](#Porque_Você_Deve_Aprender_Rust) <br> <span class="label label-success">Principiante</span> <br> Julio Biason | [**Case de Gestão Administrativa e Modularizada com uso do GLPI**](#Case_de_Gestão_Administrativa_e_Modularizada_com_uso_do_GLPI) <br> <span class="label label-success">Principiante</span> <br> Ricardo Lazzari da Rosa | [**Cases Empresariais**](#Cases_Empresariais) <br> <span class="label label-success">Principiante</span> <br> Cases Empresariais sobre Software Livre <br> |
-| **14:20** | [**Teste de Software em Aplicações Mobile**](#Teste_de_Software_em_Aplicações_Mobile) <br> <span class="label label-warning">Intermediário</span> <br> Luana de Freitas | [**Produzindo vídeos com Software Livre (e sem pirataria!)**](#Produzindo_vídeos_com_Software_Livre_e_sem_pirataria!) <br> <span class="label label-success">Principiante</span> <br> Yucatan "Kenjiro" Costa  | [**Cases Empresariais**](#Cases_Empresariais) <br> <span class="label label-success">Principiante</span> <br> Cases Empresariais sobre Software Livre <br> | 
-| **15:10** <td colspan=4><center>**Coffee-Break**</center> |
-| **15:40** | [**Desenvolvimento Mobile: Introdução ao Flutter**](#Desenvolvimento_Mobile:_Introdução_ao_Flutter) <br> <span class="label label-success">Principiante</span> <br>  Márcio Fiorenza e Mauro Oviedo II | [**Explorando dados abertos com Jupyter Notebook**](#Explorando_dados_abertos_com_Jupyter_Notebook) <br> <span class="label label-success">Principiante</span> <br>  Andrius Antunes Jaques | [**Cases Empresariais**](#Cases_Empresariais) <br> <span class="label label-success">Principiante</span> <br> Cases Empresariais sobre Software Livre <br> |
-| **16:30** | [**Git em projetos acadêmicos**](#Git_em_projetos_acadêmicos) <br> <span class="label label-success">Principiante</span> <br> Sandro Custódio |[**Gerenciamento de backups com Bacula: Case da UNIPAMPA**](#Gerenciamento_de_backups_com_Bacula:_Case_da_UNIPAMPA) <br> <span class="label label-success">Principiante</span> <br> Maurício Martinuzzi Fiorenza | [**Cases Empresariais**](#Cases_Empresariais) <br> <span class="label label-success">Principiante</span> <br> Cases Empresariais sobre Software Livre <br> |
-| **17:20** <td colspan=4><center>**Encerramento**<br> <span class="label label-info">Todo o público</span> <br>   Equipe Tchelinux  <br> </center> |
+| <center> Horário </center> | <center> Sala 103 <br> Desenvolvimento, Testes, Mobile, Ferramentas <br> <small>60 lugares</small> </center> | <center> Sala 102 (Lab 5) <br> Cases, Multimídia, Big Data <br> <small>60 lugares</small> </center> 
+|:--------------------------:|:-----------------------:|:-----------------------:|
+| **08:30** <td colspan=3><center>**Credenciamento**</center> |
+| **09:00** <td colspan=3><center>**Abertura**<br> <span class="label label-info">Todo o público</span> <br>Equipe Tchelinux<br> <small> Auditório Márcia Cera (Sala 101) - 120 lugares </small> </center> |
+| **09:30** <td colspan=3><center>[**Porque e Como Participar de Projetos Open Source**](#Porque_e_Como_Participar_de_Projetos_Open_Source)<br> <span class="label label-success">Principiante</span> <br>Julio Biason<br> <small> Auditório Márcia Cera (Sala 101) - 120 lugares </small> </center></center> |
+| **10:20** <td colspan=3><center>[**(In)Segurança na Internet**](#Insegurança_na_Internet) <br> <span class="label label-warning">Intermediário</span> <br> Diego Luiz Silva da Costa <br> <small> Auditório Márcia Cera (Sala 101) - 120 lugares </small> </center>|
+| **11:10** <td colspan=3><center>[**Bem vindo ao mundo dos Contêineres**](#Bem_vindo_ao_mundo_dos_Contêineres) <br> <span class="label label-success">Principiante</span> <br> Tonin Bolzan <br> <small> Auditório Márcia Cera (Sala 101) - 120 lugares </small> </center> |
+| **12:00** <td colspan=3><center>**Intervalo para Almoço**</center> |
+| **13:30** | [**Porque Você Deve Aprender Rust **](#Porque_Você_Deve_Aprender_Rust) <br> <span class="label label-success">Principiante</span> <br> Julio Biason | [**Case de Gestão Administrativa e Modularizada com uso do GLPI**](#Case_de_Gestão_Administrativa_e_Modularizada_com_uso_do_GLPI) <br> <span class="label label-success">Principiante</span> <br> Ricardo Lazzari da Rosa | 
+| **14:20** | [**Teste de Software em Aplicações Mobile**](#Teste_de_Software_em_Aplicações_Mobile) <br> <span class="label label-warning">Intermediário</span> <br> Luana de Freitas | [**Produzindo vídeos com Software Livre (e sem pirataria!)**](#Produzindo_vídeos_com_Software_Livre_e_sem_pirataria!) <br> <span class="label label-success">Principiante</span> <br> Yucatan "Kenjiro" Costa  | 
+| **15:10** <td colspan=3><center>**Coffee-Break**</center> |
+| **15:40** | [**Desenvolvimento Mobile: Introdução ao Flutter**](#Desenvolvimento_Mobile:_Introdução_ao_Flutter) <br> <span class="label label-success">Principiante</span> <br>  Márcio Fiorenza e Mauro Oviedo II | [**Explorando dados abertos com Jupyter Notebook**](#Explorando_dados_abertos_com_Jupyter_Notebook) <br> <span class="label label-success">Principiante</span> <br>  Andrius Antunes Jaques | 
+| **16:30** | [**Git em projetos acadêmicos**](#Git_em_projetos_acadêmicos) <br> <span class="label label-success">Principiante</span> <br> Sandro Custódio |[**Gerenciamento de backups com Bacula: Case da UNIPAMPA**](#Gerenciamento_de_backups_com_Bacula:_Case_da_UNIPAMPA) <br> <span class="label label-success">Principiante</span> <br> Maurício Martinuzzi Fiorenza |
+| **17:20** <td colspan=3><center>**Encerramento**<br> <span class="label label-info">Todo o público</span> <br>   Equipe Tchelinux  <br> </center> |
 
 ## Palestras 
 
