@@ -26,7 +26,7 @@ Serão fornecidos certificados digitais para os participantes do evento, que con
 | **09:00** <td colspan=3><center>**Abertura**<br> <span class="label label-info">Todo o público</span> <br>Equipe Tchelinux<br> <small> Auditório Márcia Cera (Sala 101) - 120 lugares </small> </center> |
 | **09:30** <td colspan=3><center>[**Porque e Como Participar de Projetos Open Source**](#Porque_e_Como_Participar_de_Projetos_Open_Source)<br> <span class="label label-success">Principiante</span> <br>Julio Biason<br> <small> Auditório Márcia Cera (Sala 101) - 120 lugares </small> </center></center> |
 | **10:20** <td colspan=3><center>[**Bem vindo ao mundo dos Contêineres**](#Bem_vindo_ao_mundo_dos_Contêineres) <br> <span class="label label-success">Principiante</span> <br> Tonin Bolzan <br> <small> Auditório Márcia Cera (Sala 101) - 120 lugares </small> </center> |
-| **11:10** <td colspan=3><center>[**Python para iniciantes**](#Python_para_iniciantes)<br> <span class="label label-success">Principiante</span> <br>Julio Biason<br> <small> Auditório Márcia Cera (Sala 101) - 120 lugares </small> </center></center> |
+| **11:10** <td colspan=3><center>[**Fugindo para as Colinas com Python**](#Fugindo_para_as_Colinas_com_Python)<br> <span class="label label-success">Principiante</span> <br>Julio Biason<br> <small> Auditório Márcia Cera (Sala 101) - 120 lugares </small> </center></center> |
 | **12:00** <td colspan=3><center>**Intervalo para Almoço**</center> |
 | **13:30** | [**Porque Você Deve Aprender Rust **](#Porque_Você_Deve_Aprender_Rust) <br> <span class="label label-success">Principiante</span> <br> Julio Biason | [**Case de Gestão Administrativa e Modularizada com uso do GLPI**](#Case_de_Gestão_Administrativa_e_Modularizada_com_uso_do_GLPI) <br> <span class="label label-success">Principiante</span> <br> Ricardo Lazzari da Rosa | 
 | **14:20** | [**Teste de Software em Aplicações Mobile**](#Teste_de_Software_em_Aplicações_Mobile) <br> <span class="label label-warning">Intermediário</span> <br> Luana de Freitas | [**Produzindo vídeos com Software Livre (e sem pirataria!)**](#Produzindo_vídeos_com_Software_Livre_e_sem_pirataria!) <br> <span class="label label-success">Principiante</span> <br> Yucatan "Kenjiro" Costa  | 
@@ -43,7 +43,7 @@ No mundo atual, todos usam pelo menos um aplicativo open source. Mas como partic
 
 ### Julio Biason
 
-[Julio Biason](https://functional.cafe/@juliobiason) participa de projetos open source desde 1990.
+[Julio Biason](https://functional.cafe/@juliobiason) participa de projetos open source desde 2000.
 
 ### Bem vindo ao mundo dos Contêineres
 
@@ -53,13 +53,13 @@ Uma introdução ao mundo DevOps apresentando o que são contêineres e como ele
 
 [Tonin Bolzan](https://bolzan.io) é membro ativo da comunidade FOSS, sendo organizador de vários eventos incluindo o TcheLinux Santa Maria. Trabalho como CTO na umanotec.com e sou apaixonado por programação desde 2007, atualmente trabalho com Sistemas Web utilizando tecnologias como Linux, Docker, PHP, Go, Flutter e Java.
 
-### Python para iniciantes
+### Fugindo para as Colinas com Python
 
-Como aprender Python partindo do zero usando apenas recursos online e livros.
+Uma introdução incomum ao Python. Ao invés de sair explicando cada um dos elementos da linguagem, iremos destrinchar uma simples aplicação que já existe, explicando as peculiaridades da linguagem.
 
 ### Julio Biason
 
-[Julio Biason](https://functional.cafe/@juliobiason) participa de projetos open source desde 1990.
+[Julio Biason](https://functional.cafe/@juliobiason) participa de projetos open source desde 2000 e é programador Python desde 2004.
 
 ### Porque Você Deve Aprender Rust 
 
