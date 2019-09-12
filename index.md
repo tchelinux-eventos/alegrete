@@ -152,6 +152,15 @@ Espaço dedicado a apresentação de cases empresariais utilizando Software Livr
 
 [![UNIPAMPA Campus Alegrete](images/logo_unipampa.png)](http://novoportal.unipampa.edu.br/alegrete/)
 
+### Patrocinio
+
+[![Analisar.net](images/logo_analisar.png)](https://alegrete.tchelinux.org)
+[![Coperativa Agroindustrial Alegrete LTDA](images/logo_caal.jpg)](http://www.caal.com.br/)
+[![Solução Informática](images/logo_solucao.jpg)](https://www.facebook.com/pages/category/Computer-Store/Solu%C3%A7%C3%A3o-Inform%C3%A1tica-1750518261827026/)
+
+[![Pilecco Nobre](images/logo_pileco.jpg)](https://pilecconobre.com.br/)
+[![Padaria Nosso Sonho](images/logo_padaria.jpg)](https://www.facebook.com/pages/category/Bakery/Padaria-Nosso-Sonho-831584550192740/)
+
 ### Divulgação
 
 [![Blog Diolinux](images/logo_diolinux.png)](https://www.diolinux.com.br/)
