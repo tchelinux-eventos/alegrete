@@ -29,7 +29,7 @@ Serão fornecidos certificados digitais para os participantes do evento, que con
 | **11:10** <td colspan=3><center>[**Fugindo para as Colinas com Python**](#Fugindo_para_as_Colinas_com_Python)<br> <span class="label label-success">Principiante</span> <br>Julio Biason<br> <small> Auditório Márcia Cera (Sala 101) - 120 lugares </small> </center></center> |
 | **12:00** <td colspan=3><center>**Intervalo para Almoço**</center> |
 | **13:30** | [**Porque Você Deve Aprender Rust **](#Porque_Você_Deve_Aprender_Rust) <br> <span class="label label-success">Principiante</span> <br> Julio Biason | [**Case de Gestão Administrativa e Modularizada com uso do GLPI**](#Case_de_Gestão_Administrativa_e_Modularizada_com_uso_do_GLPI) <br> <span class="label label-success">Principiante</span> <br> Ricardo Lazzari da Rosa | 
-| **14:20** | [**Teste de Software em Aplicações Mobile**](#Teste_de_Software_em_Aplicações_Mobile) <br> <span class="label label-warning">Intermediário</span> <br> Luana de Freitas | [**Produzindo vídeos com Software Livre (e sem pirataria!)**](#Produzindo_vídeos_com_Software_Livre_e_sem_pirataria!) <br> <span class="label label-success">Principiante</span> <br> Yucatan "Kenjiro" Costa  | 
+| **14:20** | [**Teste de Software em Aplicações Mobile**](#Teste_de_Software_em_Aplicações_Mobile) <br> <span class="label label-warning">Intermediário</span> <br> Luana de Freitas | [**Escrevendo seu próprio Script de Backup**](#Escrevendo_seu_próprio_script_de_Backup) <br> <span class="label label-success">Principiante</span> <br> Sandro Custódio | 
 | **15:10** <td colspan=3><center>**Coffee-Break**</center> |
 | **15:40** | [**Desenvolvimento Mobile: Introdução ao Flutter**](#Desenvolvimento_Mobile:_Introdução_ao_Flutter) <br> <span class="label label-success">Principiante</span> <br>  Márcio Fiorenza e Mauro Oviedo II | [**Explorando dados abertos com Jupyter Notebook**](#Explorando_dados_abertos_com_Jupyter_Notebook) <br> <span class="label label-success">Principiante</span> <br>  Andrius Antunes Jaques | 
 | **16:30** | [**Git em projetos acadêmicos**](#Git_em_projetos_acadêmicos) <br> <span class="label label-success">Principiante</span> <br> Sandro Custódio |[**Gerenciamento de backups com Bacula: Case da UNIPAMPA**](#Gerenciamento_de_backups_com_Bacula:_Case_da_UNIPAMPA) <br> <span class="label label-success">Principiante</span> <br> Maurício Martinuzzi Fiorenza |
@@ -85,13 +85,13 @@ Ao final dessa palestra o ouvinte será capaz de iniciar o desenvolvimento de um
 
 [Luana de Freitas](https://br.linkedin.com/in/luanadfreitas) é ouvinte de alguns Podcasts de tecnologia e fã de Star Trek, tropeçou no software livre há mais de 10 anos e desde então tenta contribuir para disseminar a palavra do GNU por aí. Formada em Engenharia de Computação em 2013 trabalha atualmente com teste de software web e mobile.
 
-### Produzindo vídeos com Software Livre e sem pirataria!
+### Escrevendo seu próprio Script de Backup
 
-O intuito da palestra é mostrar que é possível produzir vídeos sem gastar mais de R$ 8.000,00 e sem apelar para pirataria, tudo graças ao Software Livre!
+Veja como usar o Rsync para sincronizar sua cópia de segurança de forma recursiva e incremental. Usaremos o Bash (Bourne-again Shell), um poderoso interpretador de comandos presente em praticamente todas distribuições Linux e em vários outros sistemas operacionais como UNIX, OSX, Windows etc. Nesta apresentação veremos como construir um script para automação de backups utilizando o Bash e Rsync, explorando possibilidades deste destas ferramentas.
 
-### Yucatan "Kenjiro" Costa
+### Sandro Custódio
 
-[Yucatan "Kenjiro" Costa](https://www.facebook.com/TheZueraTV) é Graduado e Especializado em Ciência da Computação. Usuário de Linux desde 1997, foi empacotador do KDE para a distribuição Bluewhite64 e criador e mantenedor do script de compilação e empacotamento do Chrome para Slackware Linux.
+[Sandro Custódio](https://www.linkedin.com/in/sandro-custodio/) é Servidor Público da Justiça Federal com mais de 20 anos de TI, foco no Suporte a usuários, pitadas de infra e mais recentemente retornando ao desenvolvimento. Seu primeiro contato com Linux foi em 2003, e desde 2012 usa apenas Linux em casa. Já administrou UNIX e nos dias de hoje utiliza Ubuntu, Mint e CentOS. Tem como hobbies: Moto viagens, fotografia e astronomia. 
 
 ### Desenvolvimento Mobile: Introdução ao Flutter
 
